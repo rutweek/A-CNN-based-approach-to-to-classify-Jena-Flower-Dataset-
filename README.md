@@ -9,5 +9,5 @@
 -> https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QDHYST # 30 Classes
 ### Project Flow Chart
 
-<img src='Flowchart (1).png' widht=500 height=1000>
+<img src='Jena FlowChart.png' widht=500 height=1000>
 
